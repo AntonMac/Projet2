@@ -1,1 +1,1 @@
-# Copia do jogo da cobrinha in Javascript.
+# Cópia do jogo da cobrinha in Javascript.
